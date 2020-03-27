@@ -1,386 +1,784 @@
 [
   {
+    "citations": [],
     "district": "Bagerhat",
     "division": "Khulna",
     "lat": 22.351568,
-    "long": 89.705938
+    "long": 89.705938,
+    "covid19": {
+      "quarantine": 1227,
+      "confirmed": 0,
+      "died": 0
+    }
   },
   {
+    "citations": [],
     "district": "Bandarban",
     "division": "Chittagong",
     "lat": 21.8153275,
-    "long": 92.4083773
+    "long": 92.4083773,
+    "covid19": {
+      "quarantine": 0,
+      "confirmed": 0,
+      "died": 0
+    }
   },
   {
+    "citations": [],
     "district": "Barguna",
     "division": "Barisal",
     "lat": 22.16,
-    "long": 90.12
+    "long": 90.12,
+    "covid19": {
+      "quarantine": 255,
+      "confirmed": 0,
+      "died": 0
+    }
   },
   {
+    "citations": [],
     "district": "Barisal",
     "division": "Barisal",
     "lat": 22.88,
-    "long": 90.35
+    "long": 90.35,
+    "covid19": {
+      "quarantine": 463,
+      "confirmed": 0,
+      "died": 0
+    }
   },
   {
+    "citations": [],
     "district": "Bhola",
     "division": "Barisal",
     "lat": 22.285923,
-    "long": 90.848179
+    "long": 90.848179,
+    "covid19": {
+      "quarantine": 139,
+      "confirmed": 0,
+      "died": 0
+    }
   },
   {
+    "citations": [],
     "district": "Bogra",
     "division": "Rajshahi",
     "lat": 24.8465228,
-    "long": 89.377755
+    "long": 89.377755,
+    "covid19": {
+      "quarantine": 613,
+      "confirmed": 0,
+      "died": 0
+    }
   },
   {
+    "citations": [],
     "district": "Brahmanbaria",
     "division": "Chittagong",
     "lat": 23.9570904,
-    "long": 91.1119286
+    "long": 91.1119286,
+    "covid19": {
+      "quarantine": 1283,
+      "confirmed": 0,
+      "died": 0
+    }
   },
   {
+    "citations": [],
     "district": "Chandpur",
     "division": "Chittagong",
     "lat": 23.2632585,
-    "long": 90.7712912
+    "long": 90.7712912,
+    "covid19": {
+      "quarantine": 83,
+      "confirmed": 0,
+      "died": 0
+    }
   },
   {
+    "citations": [],
     "district": "Chittagong",
     "division": "Chittagong",
-    "lat": 22.335109,
-    "long": 91.834073
+    "lat": 22.535109,
+    "long": 91.834073,
+    "covid19": {
+      "quarantine": 882,
+      "confirmed": 0,
+      "died": 0
+    }
   },
   {
+    "citations": [
+      "https://www.thedailystar.net/coronavirus-in-bangladesh-3-new-cases-detected-dghs-1882915"
+    ],
     "district": "Chuadanga",
     "division": "Khulna",
     "lat": 23.6401961,
-    "long": 88.781841
+    "long": 88.781841,
+    "covid19": {
+      "quarantine": 208,
+      "confirmed": 1,
+      "died": 0
+    }
   },
   {
+    "citations": [],
     "district": "Comilla",
     "division": "Chittagong",
     "lat": 23.4682747,
-    "long": 91.0588135
+    "long": 91.0588135,
+    "covid19": {
+      "quarantine": 1358,
+      "confirmed": 0,
+      "died": 0
+    }
   },
   {
+    "citations": [
+      "https://bdnews24.com/bangladesh/2020/03/24/first-coronavirus-case-detected-in-coxs-bazar"
+    ],
     "district": "Cox's Bazar",
     "division": "Chittagong",
     "lat": 21.42,
-    "long": 92
+    "long": 92,
+    "covid19": {
+      "quarantine": 229,
+      "confirmed": 1,
+      "died": 0
+    }
   },
   {
+    "citations": [
+      "https://asia.nikkei.com/Spotlight/Coronavirus/Bangladesh-confirms-first-3-cases-of-coronavirus",
+      "https://www.thedailystar.net/2-coronavirus-affected-bangladeshis-tested-negative-yesterday-1879285",
+      "https://www.thedailystar.net/frontpage/news/first-coronavirus-cases-confirmed-1878160"
+    ],
     "district": "Dhaka",
     "division": "Dhaka",
     "lat": 23.8515253,
-    "long": 90.3811451
+    "long": 90.3811451,
+    "covid19": {
+      "quarantine": 664,
+      "confirmed": 30,
+      "died": 5
+    }
   },
   {
+    "citations": [],
     "district": "Dinajpur",
     "division": "Rangpur",
     "lat": 25.6217061,
-    "long": 88.7554504
+    "long": 88.7554504,
+    "covid19": {
+      "quarantine": 203,
+      "confirmed": 0,
+      "died": 0
+    }
   },
   {
+    "citations": [],
     "district": "Faridpur",
     "division": "Dhaka",
     "lat": 23.5070822,
-    "long": 89.8229406
+    "long": 89.8229406,
+    "covid19": {
+      "quarantine": 458,
+      "confirmed": 0,
+      "died": 0
+    }
   },
   {
+    "citations": [],
     "district": "Feni",
     "division": "Chittagong",
     "lat": 23.023231,
-    "long": 91.4240844
+    "long": 91.4240844,
+    "covid19": {
+      "quarantine": 548,
+      "confirmed": 0,
+      "died": 0
+    }
   },
   {
+    "citations": [],
     "district": "Gaibandha",
     "division": "Rangpur",
     "lat": 25.328751,
-    "long": 89.528088
+    "long": 89.528088,
+    "covid19": {
+      "quarantine": 215,
+      "confirmed": 0,
+      "died": 0
+    }
   },
   {
+    "citations": [
+      "https://www.thedailystar.net/city/italy-returnee-bangladeshi-tests-coronavirus-positive-1882453"
+    ],
     "district": "Gazipur",
     "division": "Dhaka",
     "lat": 24.1022858,
-    "long": 90.4264283
+    "long": 90.4264283,
+    "covid19": {
+      "quarantine": 297,
+      "confirmed": 1,
+      "died": 0
+    }
   },
   {
+    "citations": [],
     "district": "Gopalganj",
     "division": "Dhaka",
     "lat": 23.0890857,
-    "long": 89.8066059
+    "long": 89.8066059,
+    "covid19": {
+      "quarantine": 210,
+      "confirmed": 0,
+      "died": 0
+    }
   },
   {
+    "citations": [],
     "district": "Habiganj",
     "division": "Sylhet",
     "lat": 24.374945,
-    "long": 91.41553
+    "long": 91.41553,
+    "covid19": {
+      "quarantine": 0,
+      "confirmed": 0,
+      "died": 0
+    }
   },
   {
+    "citations": [],
     "district": "Jamalpur",
     "division": "Dhaka",
     "lat": 24.937533,
-    "long": 89.837775
+    "long": 89.837775,
+    "covid19": {
+      "quarantine": 47,
+      "confirmed": 0,
+      "died": 0
+    }
   },
   {
+    "citations": [],
     "district": "Jessore",
     "division": "Khulna",
     "lat": 23.16643,
-    "long": 89.1081126
+    "long": 89.1081126,
+    "covid19": {
+      "quarantine": 1667,
+      "confirmed": 0,
+      "died": 0
+    }
   },
   {
+    "citations": [],
     "district": "Jhalokati",
     "division": "Barisal",
     "lat": 22.66,
-    "long": 90.19
+    "long": 90.19,
+    "covid19": {
+      "quarantine": 120,
+      "confirmed": 0,
+      "died": 0
+    }
   },
   {
+    "citations": [],
     "district": "Jhenaidah",
     "division": "Khulna",
     "lat": 23.4248176,
-    "long": 89.0
+    "long": 89,
+    "covid19": {
+      "quarantine": 407,
+      "confirmed": 0,
+      "died": 0
+    }
   },
   {
+    "citations": [],
     "district": "Joypurhat",
     "division": "Rajshahi",
     "lat": 25.09,
-    "long": 89.02
+    "long": 89.02,
+    "covid19": {
+      "quarantine": 130,
+      "confirmed": 0,
+      "died": 0
+    }
   },
   {
+    "citations": [],
     "district": "Khagrachhari",
     "division": "Chittagong",
     "lat": 23.119285,
-    "long": 91.704663
+    "long": 91.954663,
+    "covid19": {
+      "quarantine": 0,
+      "confirmed": 0,
+      "died": 0
+    }
   },
   {
+    "citations": [],
     "district": "Khulna",
     "division": "Khulna",
     "lat": 22.715774,
-    "long": 89.408679
+    "long": 89.408679,
+    "covid19": {
+      "quarantine": 1431,
+      "confirmed": 0,
+      "died": 0
+    }
   },
   {
+    "citations": [],
     "district": "Kishoreganj",
     "division": "Dhaka",
     "lat": 24.444937,
-    "long": 90.776575
+    "long": 90.776575,
+    "covid19": {
+      "quarantine": 455,
+      "confirmed": 0,
+      "died": 0
+    }
   },
   {
+    "citations": [],
     "district": "Kurigram",
     "division": "Rangpur",
     "lat": 25.805445,
-    "long": 89.636174
+    "long": 89.636174,
+    "covid19": {
+      "quarantine": 0,
+      "confirmed": 0,
+      "died": 0
+    }
   },
   {
+    "citations": [],
     "district": "Kushtia",
     "division": "Khulna",
     "lat": 23.901258,
-    "long": 89.120482
+    "long": 89.120482,
+    "covid19": {
+      "quarantine": 675,
+      "confirmed": 0,
+      "died": 0
+    }
   },
   {
+    "citations": [],
     "district": "Lakshmipur",
     "division": "Chittagong",
     "lat": 22.99907447,
-    "long": 90.7555988
+    "long": 90.7555988,
+    "covid19": {
+      "quarantine": 789,
+      "confirmed": 0,
+      "died": 0
+    }
   },
   {
+    "citations": [],
     "district": "Lalmonirhat",
     "division": "Rangpur",
     "lat": 25.99,
-    "long": 89.33
+    "long": 89.33,
+    "covid19": {
+      "quarantine": 142,
+      "confirmed": 0,
+      "died": 0
+    }
   },
   {
+    "citations": [
+      "http://unb.com.bd/category/Bangladesh/corona-patients-panic-grips-entire-madaripur/47894"
+    ],
     "district": "Madaripur",
     "division": "Dhaka",
     "lat": 23.204102,
-    "long": 90.0896805
+    "long": 90.0896805,
+    "covid19": {
+      "quarantine": 454,
+      "confirmed": 4,
+      "died": 0
+    }
   },
   {
+    "citations": [],
     "district": "Magura",
     "division": "Khulna",
     "lat": 23.487337,
-    "long": 89.419956
+    "long": 89.419956,
+    "covid19": {
+      "quarantine": 263,
+      "confirmed": 0,
+      "died": 0
+    }
   },
   {
+    "citations": [],
     "district": "Manikganj",
     "division": "Dhaka",
     "lat": 23.9,
-    "long": 89.83
+    "long": 89.83,
+    "covid19": {
+      "quarantine": 433,
+      "confirmed": 0,
+      "died": 0
+    }
   },
   {
+    "citations": [],
     "district": "Maulvibazar",
     "division": "Sylhet",
     "lat": 24.482934,
-    "long": 91.777417
+    "long": 91.777417,
+    "covid19": {
+      "quarantine": 460,
+      "confirmed": 0,
+      "died": 0
+    }
   },
   {
+    "citations": [],
     "district": "Meherpur",
     "division": "Khulna",
     "lat": 23.802213,
-    "long": 88.631821
+    "long": 88.631821,
+    "covid19": {
+      "quarantine": 157,
+      "confirmed": 0,
+      "died": 0
+    }
   },
   {
+    "citations": [],
     "district": "Munshiganj",
     "division": "Dhaka",
     "lat": 23.55,
-    "long": 90.35
+    "long": 90.35,
+    "covid19": {
+      "quarantine": 461,
+      "confirmed": 0,
+      "died": 0
+    }
   },
   {
+    "citations": [],
     "district": "Mymensingh",
     "division": "Dhaka",
     "lat": 24.74,
-    "long": 90.36
+    "long": 90.36,
+    "covid19": {
+      "quarantine": 537,
+      "confirmed": 0,
+      "died": 0
+    }
   },
   {
+    "citations": [],
     "district": "Naogaon",
     "division": "Rajshahi",
     "lat": 24.8936,
-    "long": 88.7318
+    "long": 88.7318,
+    "covid19": {
+      "quarantine": 1113,
+      "confirmed": 0,
+      "died": 0
+    }
   },
   {
+    "citations": [],
     "district": "Narail",
     "division": "Khulna",
     "lat": 23.172534,
-    "long": 89.572672
+    "long": 89.572672,
+    "covid19": {
+      "quarantine": 292,
+      "confirmed": 0,
+      "died": 0
+    }
   },
   {
+    "citations": [],
     "district": "Narayanganj",
     "division": "Dhaka",
     "lat": 23.68366,
-    "long": 90.496482
+    "long": 90.496482,
+    "covid19": {
+      "quarantine": 182,
+      "confirmed": 0,
+      "died": 0
+    }
   },
   {
+    "citations": [],
     "district": "Narsingdi",
     "division": "Dhaka",
     "lat": 24.012233,
-    "long": 90.71541
+    "long": 90.71541,
+    "covid19": {
+      "quarantine": 316,
+      "confirmed": 0,
+      "died": 0
+    }
   },
   {
+    "citations": [],
     "district": "Natore",
     "division": "Rajshahi",
     "lat": 24.420556,
-    "long": 89.100282
+    "long": 89.100282,
+    "covid19": {
+      "quarantine": 214,
+      "confirmed": 0,
+      "died": 0
+    }
   },
   {
+    "citations": [],
     "district": "Chapainawabganj",
     "division": "Rajshahi",
     "lat": 24.7065034,
-    "long": 88.0
+    "long": 88.25,
+    "covid19": {
+      "quarantine": 468,
+      "confirmed": 0,
+      "died": 0
+    }
   },
   {
+    "citations": [],
     "district": "Netrakona",
     "division": "Dhaka",
     "lat": 24.950955,
-    "long": 90.727887
+    "long": 90.727887,
+    "covid19": {
+      "quarantine": 114,
+      "confirmed": 0,
+      "died": 0
+    }
   },
   {
+    "citations": [],
     "district": "Nilphamari",
     "division": "Rangpur",
     "lat": 26.091794,
-    "long": 88.856006
+    "long": 88.856006,
+    "covid19": {
+      "quarantine": 189,
+      "confirmed": 0,
+      "died": 0
+    }
   },
   {
+    "citations": [],
     "district": "Noakhali",
     "division": "Chittagong",
     "lat": 22.789563,
-    "long": 91.102398
+    "long": 91.102398,
+    "covid19": {
+      "quarantine": 1114,
+      "confirmed": 0,
+      "died": 0
+    }
   },
   {
+    "citations": [],
     "district": "Pabna",
     "division": "Rajshahi",
     "lat": 24.098524,
-    "long": 89.333645
+    "long": 89.333645,
+    "covid19": {
+      "quarantine": 638,
+      "confirmed": 0,
+      "died": 0
+    }
   },
   {
+    "citations": [],
     "district": "Panchagarh",
     "division": "Rangpur",
     "lat": 26.3411,
-    "long": 88.5541606
+    "long": 88.5541606,
+    "covid19": {
+      "quarantine": 648,
+      "confirmed": 0,
+      "died": 0
+    }
   },
   {
+    "citations": [],
     "district": "Patuakhali",
     "division": "Barisal",
     "lat": 22.3596316,
-    "long": 90.3298712
+    "long": 90.4298712,
+    "covid19": {
+      "quarantine": 13,
+      "confirmed": 0,
+      "died": 0
+    }
   },
   {
+    "citations": [],
     "district": "Pirojpur",
     "division": "Barisal",
     "lat": 22.5841,
-    "long": 89.972
+    "long": 89.972,
+    "covid19": {
+      "quarantine": 294,
+      "confirmed": 0,
+      "died": 0
+    }
   },
   {
+    "citations": [],
     "district": "Rajbari",
     "division": "Dhaka",
     "lat": 23.7574305,
-    "long": 89.5844665
+    "long": 89.5844665,
+    "covid19": {
+      "quarantine": 494,
+      "confirmed": 0,
+      "died": 0
+    }
   },
   {
+    "citations": [],
     "district": "Rajshahi",
     "division": "Rajshahi",
     "lat": 24.47,
-    "long": 88.6
+    "long": 88.6,
+    "covid19": {
+      "quarantine": 367,
+      "confirmed": 0,
+      "died": 0
+    }
   },
   {
+    "citations": [],
     "district": "Rangamati",
     "division": "Chittagong",
-    "lat": 22.7,
-    "long": 92.17
+    "lat": 22.75,
+    "long": 92.17,
+    "covid19": {
+      "quarantine": 129,
+      "confirmed": 0,
+      "died": 0
+    }
   },
   {
+    "citations": [],
     "district": "Rangpur",
     "division": "Rangpur",
     "lat": 25.7558096,
-    "long": 89.244462
+    "long": 89.244462,
+    "covid19": {
+      "quarantine": 20,
+      "confirmed": 0,
+      "died": 0
+    }
   },
   {
+    "citations": [],
     "district": "Satkhira",
     "division": "Khulna",
     "lat": 22.31,
-    "long": 89.11
+    "long": 89.11,
+    "covid19": {
+      "quarantine": 1561,
+      "confirmed": 0,
+      "died": 0
+    }
   },
   {
+    "citations": [],
     "district": "Shariatpur",
     "division": "Dhaka",
     "lat": 23.32,
-    "long": 90.36
+    "long": 90.36,
+    "covid19": {
+      "quarantine": 353,
+      "confirmed": 0,
+      "died": 0
+    }
   },
   {
+    "citations": [],
     "district": "Sherpur",
     "division": "Dhaka",
     "lat": 25.0804933,
-    "long": 90.0802966
+    "long": 90.0802966,
+    "covid19": {
+      "quarantine": 133,
+      "confirmed": 0,
+      "died": 0
+    }
   },
   {
+    "citations": [],
     "district": "Sirajganj",
     "division": "Rajshahi",
     "lat": 24.4533978,
-    "long": 89.5506815
+    "long": 89.5506815,
+    "covid19": {
+      "quarantine": 318,
+      "confirmed": 0,
+      "died": 0
+    }
   },
   {
+    "citations": [],
     "district": "Sunamganj",
     "division": "Sylhet",
     "lat": 25.0658042,
-    "long": 91.2950115
+    "long": 91.2950115,
+    "covid19": {
+      "quarantine": 389,
+      "confirmed": 0,
+      "died": 0
+    }
   },
   {
+    "citations": [
+      "https://www.thedailystar.net/coronavirus-deadly-new-threat/news/uk-returnee-coronavirus-symptoms-dies-isolation-1884250"
+    ],
     "district": "Sylhet",
     "division": "Sylhet",
     "lat": 24.8897956,
-    "long": 91.8697894
+    "long": 91.8697894,
+    "covid19": {
+      "quarantine": 665,
+      "confirmed": 2,
+      "died": 1
+    }
   },
   {
+    "citations": [],
     "district": "Tangail",
     "division": "Dhaka",
     "lat": 24.35,
-    "long": 89.99
+    "long": 89.99,
+    "covid19": {
+      "quarantine": 1061,
+      "confirmed": 0,
+      "died": 0
+    }
   },
   {
+    "citations": [],
     "district": "Thakurgaon",
     "division": "Rangpur",
     "lat": 26.0336945,
-    "long": 88.2616834
+    "long": 88.2616834,
+    "covid19": {
+      "quarantine": 0,
+      "confirmed": 0,
+      "died": 0
+    }
   }
 ]

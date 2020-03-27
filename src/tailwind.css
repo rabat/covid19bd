@@ -1,3 +1,40 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.bd-map {
+  margin-top: 16px;
+  height: 920px;
+}
+
+.bd-map .district {
+}
+
+.bd-map .district:hover {
+  stroke-width: 1px;
+  stroke: rgb(197, 197, 197);
+  cursor: pointer;
+}
+
+.bd-map .district-label {
+  cursor: pointer;
+  font-size: 10px;
+}
+
+.bd-map .district-border {
+  stroke: rgb(221, 221, 221);
+  stroke-width: 2px;
+  fill: none;
+}
+
+.confirmed-circle {
+  fill: rgba(247, 128, 8, 0.5);
+  stroke-width: 5px;
+  stroke-opacity: 1;
+}
+
+.passed-away-circle {
+  fill: rgba(255, 0, 0, 0.5);
+  stroke-width: 5px;
+  stroke-opacity: 1;
+}
