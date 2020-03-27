@@ -98,11 +98,13 @@ const Covid19 = () => {
 
 const BangladeshMap = () => {
   return (
-    <svg className="w-full bd-map">
-      <path className="district-border" d={pathGenerator(meshes)}></path>
-      <Districts />
-      <Covid19 />
-    </svg>
+    <div className="w-full">
+      <svg className="w-full bd-map">
+        <path className="district-border" d={pathGenerator(meshes)}></path>
+        <Districts />
+        <Covid19 />
+      </svg>
+    </div>
   );
 };
 

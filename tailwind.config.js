@@ -2,12 +2,10 @@ module.exports = {
   theme: {
     colors: {
       gray: '#b1b2b3',
-      cyan: {
-        deep: '#2c5a71',
-        dark: '#193340'
-      },
-      yellow: '#d6a82c',
-      orrange: '#ff6d00'
+      yellow: '#f8cc2c',
+      orrange: '#f7800880',
+      red: '#ff000080',
+      green: '#9efe89'
     },
     extend: {}
   },

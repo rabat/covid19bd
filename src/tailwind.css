@@ -3,7 +3,6 @@
 @tailwind utilities;
 
 .bd-map {
-  margin-top: 16px;
   height: 920px;
 }
 
@@ -28,13 +27,13 @@
 }
 
 .confirmed-circle {
-  fill: rgba(247, 128, 8, 0.5);
+  fill: #f7800880;
   stroke-width: 5px;
   stroke-opacity: 1;
 }
 
 .passed-away-circle {
-  fill: rgba(255, 0, 0, 0.5);
+  fill: #ff000080;
   stroke-width: 5px;
   stroke-opacity: 1;
 }
