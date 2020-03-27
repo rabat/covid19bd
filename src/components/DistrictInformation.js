@@ -73,6 +73,7 @@ const DistrictInformation = () => {
         <a
           href="http://103.247.238.81/webportal/pages/covid19.php"
           target="_blank"
+          rel="noopener noreferrer"
         >
           <span className="pr-2">Data source</span>
           <span>HEOC & Control Room, IEDCR, DHIS2</span>
@@ -83,7 +84,7 @@ const DistrictInformation = () => {
         let key = 'cite-' + idx;
         return (
           <div className="text-xs" key={key}>
-            <a href={cite.url} target="_blank">
+            <a href={cite.url} target="_blank" rel="noopener noreferrer">
               <span>
                 <span className="pr-2">{idx + 1}</span>
                 <span className="italic">
