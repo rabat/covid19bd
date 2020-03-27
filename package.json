@@ -19,7 +19,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "build:gh-page": "git checkout gh-page && npm run build && mv build gh-page",
+    "build:gh-pages": "npm run build && mv build docs",
     "watch:styles": "postcss src/tailwind.css -o src/styles.css -w",
     "build:styles": "postcss src/tailwind.css -o src/styles.css",
     "prebuild": "npm run build:styles",

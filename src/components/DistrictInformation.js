@@ -42,26 +42,26 @@ const DistrictInformation = () => {
         <div className="pb-4 text-lg">{district.district}</div>
         <div className="flex flex-wrap">
           <div className="w-1/2 mb-2">
-            <div class="bg-yellow w-4 h-3 mr-2 inline-block"></div>
+            <div className="bg-yellow w-4 h-3 mr-2 inline-block"></div>
             <div className="text-sm inline-block"> Quarantine </div>
             <div className="text-sm font-bold">
               {district.covid19.quarantine}
             </div>
           </div>
           <div className="w-1/2 mb-2">
-            <div class="bg-orrange w-4 h-3 mr-2 inline-block"></div>
+            <div className="bg-orrange w-4 h-3 mr-2 inline-block"></div>
             <div className="text-sm inline-block"> Confimed cases </div>
             <div className="text-sm font-bold">
               {district.covid19.confirmed}
             </div>
           </div>
           <div className="w-1/2 mb-2">
-            <div class="bg-green w-4 h-3 mr-2 inline-block"></div>
+            <div className="bg-green w-4 h-3 mr-2 inline-block"></div>
             <div className="text-sm inline-block"> Recovered </div>
             <div className="text-sm font-bold">N/A</div>
           </div>
           <div className="w-1/2 mb-2">
-            <div class="bg-red w-4 h-3 mr-2 inline-block"></div>
+            <div className="bg-red w-4 h-3 mr-2 inline-block"></div>
             <div className="text-sm inline-block"> Deaths </div>
             <div className="text-sm font-bold">{district.covid19.died}</div>
           </div>
