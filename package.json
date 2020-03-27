@@ -19,7 +19,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "build:gh-pages": "npm run build && mv build docs",
+    "build:gh-pages": "rm -rf docs && npm run build && mv build docs",
     "watch:styles": "postcss src/tailwind.css -o src/styles.css -w",
     "build:styles": "postcss src/tailwind.css -o src/styles.css",
     "prebuild": "npm run build:styles",
@@ -49,5 +49,6 @@
     "redux-devtools-extension": "^2.13.8",
     "serve": "^11.3.0",
     "tailwindcss": "^1.2.0"
-  }
+  },
+  "homepage": "https://rabat.github.io/covid19bd"
 }
